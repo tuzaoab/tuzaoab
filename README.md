@@ -1,5 +1,5 @@
-## Hi there 👋
-### 🛠 Linguagens que eu mais utilizo:
+## :trollface:
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -13,7 +13,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg"/>
 </div>
-[![Minhas Linguagens](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg)
 <!--
 **tuzaoab/tuzaoab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
